@@ -1,0 +1,24 @@
+CloudCover
+EDT
+['EDT', 'Max TemperatureF', 'Mean TemperatureF', 'Min TemperatureF', 'Max Dew PointF', 'MeanDew PointF', 'Min DewpointF', 'Max Humidity', ' Mean Humidity', ' Min Humidity', ' Max Sea Level PressureIn', ' Mean Sea Level PressureIn', ' Min Sea Level PressureIn', ' Max VisibilityMiles', ' Mean VisibilityMiles', ' Min VisibilityMiles', ' Max Wind SpeedMPH', ' Mean Wind SpeedMPH', ' Max Gust SpeedMPH', 'PrecipitationIn', ' CloudCover', ' Events', ' WindDirDegrees']
+Events
+MaxDewPointF
+MaxGustSpeedMPH
+MaxHumidity
+MaxSeaLevelPressureIn
+MaxTemperatureF
+MaxVisibilityMiles
+MaxWindSpeedMPH
+MeanDewPointF
+MeanHumidity
+MeanSeaLevelPressureIn
+MeanTemperatureF
+MeanVisibilityMiles
+MeanWindSpeedMPH
+MinDewpointF
+MinHumidity
+MinSeaLevelPressureIn
+MinTemperatureF
+MinVisibilityMiles
+PrecipitationIn
+WindDirDegrees
